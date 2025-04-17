@@ -23,6 +23,7 @@ const App = () => {
   const deletAll =()=>{
     dispatch(deleteAllItem())
   }
+  console.log("Suyash Rai....!!")
   return (
 <>
    <p>{data}</p>
